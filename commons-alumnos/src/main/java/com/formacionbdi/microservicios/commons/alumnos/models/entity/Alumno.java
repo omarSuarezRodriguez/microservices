@@ -73,6 +73,7 @@ public class Alumno {
 		this.createAt = createAt;
 	}
 
+	// Método para saber si los objetos son iguales
 	@Override
 	public boolean equals(Object obj) {
 		
