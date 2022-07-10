@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
     <typeInfo handle="=microservicios-usuarios/C:\/Users\/Omar\/.m2\/repository\/org\/springframework\/data\/spring-data-commons\/2.6.5\/spring-data-commons-2.6.5.jar=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-commons=/=/maven.version=/2.6.5=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.springframework.data.repository(CrudRepository.class[CrudRepository" modifiers="1537" timestamp="1657117898598"/>
-    <typeInfo handle="=microservicios-usuarios/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.formacionbdi.microservicios.app.usuarios.services{AlumnoService.java[AlumnoService" modifiers="513" timestamp="1657141039529"/>
+    <typeInfo handle="=microservicios-usuarios/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.formacionbdi.microservicios.app.usuarios.services{AlumnoService.java[AlumnoService" modifiers="513" timestamp="1657274304323"/>
+    <typeInfo handle="=commons-microservicios/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.formacionbdi.microservicios.commons.services{CommonService.java[CommonService" modifiers="513" timestamp="1657274107515"/>
+    <typeInfo handle="=microservicios-cursos/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.formacionbdi.microservicios.app.cursos.services{CursoService.java[CursoService" modifiers="513" timestamp="1657318641501"/>
+    <typeInfo handle="=commons-microservicios/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.formacionbdi.microservicios.commons.services{CommonServiceImpl.java[CommonServiceImpl" modifiers="1" timestamp="1657274420725"/>
 </typeInfoHistroy>
