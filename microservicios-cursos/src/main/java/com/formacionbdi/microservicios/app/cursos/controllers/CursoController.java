@@ -29,7 +29,7 @@ public class CursoController extends CommonController<Curso, CursoService> {
 
 		Curso dbCurso = o.get();
 		dbCurso.setNombre(curso.getNombre());
-		return ResponseEntity.status(HttpStatus.CREATED).body(this.service.save(dbCurso));
+		return ResponseEntity.status(HttpStatus.CREATED).body(this .service.save(dbCurso));
 
 	}
 
