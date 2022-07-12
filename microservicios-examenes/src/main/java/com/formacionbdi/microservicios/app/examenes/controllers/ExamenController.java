@@ -29,6 +29,7 @@ public class ExamenController extends CommonController<Examen, ExamenService>{
 		
 		
 		
+		
 		return null;
 		
 	}
