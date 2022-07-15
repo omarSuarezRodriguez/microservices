@@ -31,7 +31,7 @@ public class ExamenController extends CommonController<Examen, ExamenService>{
 		examenDb.setNombre(examen.getNombre());
 		
 		
-		// Lista de preguntas eliminadas
+		// Lista de preguntas eliminadas.
 		List<Pregunta> eliminadas = new ArrayList<>();
 		
 		examenDb.getPreguntas().forEach(pdb -> {

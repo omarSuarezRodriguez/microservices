@@ -41,12 +41,13 @@
     <fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.domain.EntityScan"/>
     <fullyQualifiedTypeName name="javax.persistence.OneToMany"/>
     <fullyQualifiedTypeName name="javax.persistence.FetchType"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PutMapping"/>
     <fullyQualifiedTypeName name="com.formacionbdi.microservicios.commons.alumnos.models.entity.Alumno"/>
     <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.Query"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="javax.transaction.Transactional"/>
     <fullyQualifiedTypeName name="org.springframework.transaction.annotation.Transactional"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.formacionbdi.microservicios.app.examenes.models.entity.Pregunta"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>
