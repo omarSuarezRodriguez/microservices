@@ -46,6 +46,10 @@ public class ExamenController extends CommonController<Examen, ExamenService>{
 			examenDb.removePregunta(p);
 		});
 		
+//		eliminadas.forEach(p -> {
+//			examenDb.removePregunta(p);
+//		});
+		
 		
 		return null;
 		
