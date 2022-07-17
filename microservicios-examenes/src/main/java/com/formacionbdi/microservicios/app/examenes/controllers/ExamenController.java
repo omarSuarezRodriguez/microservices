@@ -16,44 +16,50 @@ import com.formacionbdi.microservicios.app.examenes.services.ExamenService;
 import com.formacionbdi.microservicios.commons.controllers.CommonController;
 
 @RestController
-public class ExamenController extends CommonController<Examen, ExamenService>{
+public class ExamenController extends CommonController<Examen, ExamenService> {
 
 	@PutMapping("/{id}")
 	public ResponseEntity<?> editar(@RequestBody Examen examen, @PathVariable Long id) {
-		
+
 		Optional<Examen> o = service.findById(id);
-		
+
 		if (!o.isPresent()) {
 			return ResponseEntity.notFound().build();
 		}
-		
+
 		Examen examenDb = o.get();
 		examenDb.setNombre(examen.getNombre());
-		
-		
+
 		// Lista de preguntas eliminadas.
 		List<Pregunta> eliminadas = new ArrayList<>();
-		
+
 		examenDb.getPreguntas().forEach(pdb -> {
-			if(!examen.getPreguntas().contains(pdb)) {
+			if (!examen.getPreguntas().contains(pdb)) {
 				eliminadas.add(pdb);
-				
+
 			}
 		});
-		
-		
+
+//		// Lista de preguntas eliminadas.
+//		List<Pregunta> eliminadas = new ArrayList<>();
+//
+//		examenDb.getPreguntas().forEach(pdb -> {
+//			if (!examen.getPreguntas().contains(pdb)) {
+//				eliminadas.add(pdb);
+//
+//			}
+//		});
+
 		eliminadas.forEach(p -> {
 			examenDb.removePregunta(p);
 		});
-		
+
 //		eliminadas.forEach(p -> {
 //			examenDb.removePregunta(p);
 //		});
-		
-		
+
 		return null;
-		
+
 	}
-	
-	
+
 }
