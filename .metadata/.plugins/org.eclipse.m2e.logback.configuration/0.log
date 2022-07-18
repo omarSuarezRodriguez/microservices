@@ -7210,3 +7210,9 @@ java.net.URISyntaxException: Illegal character in path at index 33: file:/C:/Use
 2022-07-18 04:10:27,153 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-07-18 04:10:27,154 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2022-07-18 04:10:27,154 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Omar\Desktop\Curso Microservicios Udemy\workspace\microservicios-examenes\src\test\resources
+2022-07-18 04:59:46,831 [Worker-56: Launching microservicios-examenes - MicroserviciosExamenesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/commons-microservicios: com.formacionbdi.microservicios.commons:commons-microservicios:0.0.1-SNAPSHOT with classifier null to /commons-microservicios/target/classes
+2022-07-18 04:59:47,015 [Worker-56: Launching microservicios-examenes - MicroserviciosExamenesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/commons-microservicios: com.formacionbdi.microservicios.commons:commons-microservicios:0.0.1-SNAPSHOT with classifier null to /commons-microservicios/target/classes
+2022-07-18 04:59:47,175 [Worker-56: Launching microservicios-examenes - MicroserviciosExamenesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/commons-microservicios: com.formacionbdi.microservicios.commons:commons-microservicios:0.0.1-SNAPSHOT with classifier null to /commons-microservicios/target/classes
+2022-07-18 05:00:51,394 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 05:00:51,395 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-18 05:00:51,421 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
