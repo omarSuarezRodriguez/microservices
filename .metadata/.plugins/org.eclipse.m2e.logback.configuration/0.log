@@ -7608,3 +7608,107 @@ java.net.URISyntaxException: Illegal character in path at index 33: file:/C:/Use
 2022-07-18 13:09:35,084 [Worker-164: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2022-07-18 13:09:35,086 [Worker-164: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2022-07-18 13:09:35,088 [Worker-164: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-18 13:09:35,088 [Worker-164: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-18 13:09:35,088 [Worker-164: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Omar\Desktop\Curso Microservicios Udemy\workspace\microservicios-cursos\src\test\resources
+2022-07-19 17:00:55,670 [Worker-467: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/commons-examenes: com.formacionbdi.microservicios.commons.examenes:commons-examenes:0.0.1-SNAPSHOT with classifier  to /commons-examenes/target/classes
+2022-07-19 17:00:55,671 [Worker-467: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/commons-microservicios: com.formacionbdi.microservicios.commons:commons-microservicios:0.0.1-SNAPSHOT with classifier  to /commons-microservicios/target/classes
+2022-07-19 17:00:56,304 [Worker-464: Launching microservicios-examenes - MicroserviciosExamenesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/commons-examenes: com.formacionbdi.microservicios.commons.examenes:commons-examenes:0.0.1-SNAPSHOT with classifier null to /commons-examenes/target/classes
+2022-07-19 17:00:56,304 [Worker-464: Launching microservicios-examenes - MicroserviciosExamenesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/commons-microservicios: com.formacionbdi.microservicios.commons:commons-microservicios:0.0.1-SNAPSHOT with classifier null to /commons-microservicios/target/classes
+2022-07-19 17:00:56,417 [Worker-464: Launching microservicios-examenes - MicroserviciosExamenesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/commons-examenes: com.formacionbdi.microservicios.commons.examenes:commons-examenes:0.0.1-SNAPSHOT with classifier null to /commons-examenes/target/classes
+2022-07-19 17:00:56,417 [Worker-464: Launching microservicios-examenes - MicroserviciosExamenesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/commons-microservicios: com.formacionbdi.microservicios.commons:commons-microservicios:0.0.1-SNAPSHOT with classifier null to /commons-microservicios/target/classes
+2022-07-19 17:00:56,527 [Worker-464: Launching microservicios-examenes - MicroserviciosExamenesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/commons-examenes: com.formacionbdi.microservicios.commons.examenes:commons-examenes:0.0.1-SNAPSHOT with classifier null to /commons-examenes/target/classes
+2022-07-19 17:00:56,528 [Worker-464: Launching microservicios-examenes - MicroserviciosExamenesApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/commons-microservicios: com.formacionbdi.microservicios.commons:commons-microservicios:0.0.1-SNAPSHOT with classifier null to /commons-microservicios/target/classes
+2022-07-19 17:03:51,479 [Worker-470: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 17:03:51,480 [Worker-470: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 17:03:51,481 [Worker-470: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-19 17:03:51,487 [Worker-470: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-19 17:03:51,494 [Worker-470: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 17:03:51,494 [Worker-470: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 17:03:51,494 [Worker-470: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Omar\Desktop\Curso Microservicios Udemy\workspace\microservicios-cursos\src\test\resources
+2022-07-19 17:04:04,782 [Worker-464: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 17:04:04,783 [Worker-464: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 17:04:04,784 [Worker-464: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-19 17:04:04,791 [Worker-464: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-19 17:04:04,794 [Worker-464: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 17:04:04,794 [Worker-464: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 17:04:04,794 [Worker-464: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Omar\Desktop\Curso Microservicios Udemy\workspace\microservicios-cursos\src\test\resources
+2022-07-19 17:05:01,155 [Worker-468: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 17:05:01,155 [Worker-468: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 17:05:01,156 [Worker-468: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-19 17:05:01,175 [Worker-468: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-19 17:05:01,179 [Worker-468: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 17:05:01,179 [Worker-468: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 17:05:01,179 [Worker-468: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Omar\Desktop\Curso Microservicios Udemy\workspace\microservicios-cursos\src\test\resources
+2022-07-19 17:05:40,779 [Worker-468: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 17:05:40,779 [Worker-468: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 17:05:40,780 [Worker-468: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-19 17:05:40,786 [Worker-468: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-19 17:05:40,789 [Worker-468: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 17:05:40,789 [Worker-468: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 17:05:40,789 [Worker-468: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Omar\Desktop\Curso Microservicios Udemy\workspace\microservicios-cursos\src\test\resources
+2022-07-19 17:06:33,452 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 17:06:33,452 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 17:06:33,453 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-19 17:06:33,458 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-19 17:06:33,460 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 17:06:33,460 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 17:06:33,461 [Worker-473: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Omar\Desktop\Curso Microservicios Udemy\workspace\microservicios-cursos\src\test\resources
+2022-07-19 17:07:26,848 [Worker-464: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 17:07:26,848 [Worker-464: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 17:07:26,849 [Worker-464: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-19 17:07:26,855 [Worker-464: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-19 17:07:26,858 [Worker-464: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 17:07:26,858 [Worker-464: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 17:07:26,858 [Worker-464: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Omar\Desktop\Curso Microservicios Udemy\workspace\microservicios-cursos\src\test\resources
+2022-07-19 17:09:28,664 [Worker-474: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 17:09:28,664 [Worker-474: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 17:09:28,665 [Worker-474: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-19 17:09:28,669 [Worker-474: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-19 17:09:28,673 [Worker-474: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 17:09:28,673 [Worker-474: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 17:09:28,673 [Worker-474: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Omar\Desktop\Curso Microservicios Udemy\workspace\microservicios-cursos\src\test\resources
+2022-07-19 17:10:15,921 [Worker-474: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 17:10:15,921 [Worker-474: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 17:10:15,922 [Worker-474: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-19 17:10:15,928 [Worker-474: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-19 17:10:15,933 [Worker-474: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 17:10:15,934 [Worker-474: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 17:10:15,934 [Worker-474: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Omar\Desktop\Curso Microservicios Udemy\workspace\commons-examenes\src\test\resources
+2022-07-19 17:11:21,612 [Worker-475: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 17:11:21,613 [Worker-475: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 17:11:21,613 [Worker-475: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-19 17:11:21,618 [Worker-475: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-19 17:11:21,622 [Worker-475: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 17:11:21,622 [Worker-475: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 17:11:21,622 [Worker-475: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Omar\Desktop\Curso Microservicios Udemy\workspace\commons-examenes\src\test\resources
+2022-07-19 17:11:36,151 [Worker-475: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 17:11:36,152 [Worker-475: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 17:11:36,152 [Worker-475: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-19 17:11:36,157 [Worker-475: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-19 17:11:36,159 [Worker-475: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 17:11:36,159 [Worker-475: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 17:11:36,159 [Worker-475: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Omar\Desktop\Curso Microservicios Udemy\workspace\commons-examenes\src\test\resources
+2022-07-19 17:29:40,176 [Worker-485: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 17:29:40,177 [Worker-485: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 17:29:40,177 [Worker-485: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-19 17:29:40,183 [Worker-485: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-19 17:29:40,185 [Worker-485: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 17:29:40,185 [Worker-485: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 17:29:40,185 [Worker-485: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Omar\Desktop\Curso Microservicios Udemy\workspace\microservicios-cursos\src\test\resources
+2022-07-19 17:31:27,735 [Worker-483: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 17:31:27,735 [Worker-483: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 17:31:27,736 [Worker-483: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-19 17:31:27,741 [Worker-483: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-19 17:31:27,743 [Worker-483: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 17:31:27,743 [Worker-483: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 17:31:27,744 [Worker-483: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Omar\Desktop\Curso Microservicios Udemy\workspace\microservicios-cursos\src\test\resources
+2022-07-19 17:31:52,265 [Worker-484: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 17:31:52,265 [Worker-484: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 17:31:52,266 [Worker-484: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-19 17:31:52,271 [Worker-484: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-19 17:31:52,273 [Worker-484: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 17:31:52,273 [Worker-484: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 17:31:52,273 [Worker-484: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Omar\Desktop\Curso Microservicios Udemy\workspace\microservicios-cursos\src\test\resources
+2022-07-19 17:32:37,106 [Worker-486: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-19 17:32:37,107 [Worker-486: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-19 17:32:37,108 [Worker-486: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
