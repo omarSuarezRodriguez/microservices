@@ -1,5 +1,6 @@
 package com.formacionbdi.microservicios.commons.examenes.models.entity;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import javax.persistence.CascadeType;
@@ -25,16 +26,22 @@ public class Asignatura {
 	
 	private String nombre;
 
+	
 	@JsonIgnoreProperties(value = {"hijos"})
 	@ManyToOne(fetch = FetchType.LAZY)
 	private Asignatura padre;
+	
 	
 	@JsonIgnoreProperties(value = {"padre"}, allowSetters = true)
 	@OneToMany(fetch = FetchType.LAZY, mappedBy = "padre", cascade = CascadeType.ALL)
 	private List<Asignatura> hijos;
 	
 	
-	
+	// Constructor de la clase
+	public Asignatura() {
+		this.hijos = new ArrayList<>();
+	}
+
 	public Long getId() {
 		return id;
 	}
