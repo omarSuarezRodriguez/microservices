@@ -145,6 +145,12 @@ public class Examen {
 	
 	
 	
+//	public void setAsignatura(Asignatura asignatura) {
+//		this.asignatura = asignatura;
+//	}
+	
+	
+	
 	
 	
 
